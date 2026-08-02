@@ -1,0 +1,22 @@
+# TestGorilla
+
+> TestGorilla is an AI-powered talent-assessment and skills-based hiring platform offering 350+ pre-employment tests, AI interviews, and candidate screening used by companies such as PayPal, Equifax, and PepsiCo. It is profiled in the API Evangelist network as a company; no public developer API has been located.
+
+## Company
+- Website: https://www.testgorilla.com/
+- Pricing: https://www.testgorilla.com/pricing/
+- Blog: https://www.testgorilla.com/blog/
+- Help Center: https://support.testgorilla.com/
+- Application (Sign up / Login): https://app.testgorilla.com/
+
+## Legal
+- Terms: https://www.testgorilla.com/terms/
+- Privacy Policy: https://www.testgorilla.com/privacy-policy/
+
+## Security & Trust
+- Trust Center (SOC 2): https://trust.testgorilla.com/
+- security.txt: https://www.testgorilla.com/.well-known/security.txt
+- Security contact: security@testgorilla.com
+
+## Notes
+- No public REST/GraphQL API, OpenAPI specification, SDK, or webhook documentation was found on the developer/help surfaces as of 2026-07-21. TestGorilla advertises ATS integrations but does not publish a self-serve developer API.

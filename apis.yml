@@ -1,8 +1,14 @@
 aid: testgorilla
-name: testgorilla
-description: testgorilla is a company surfaced as a portfolio company of balderton-capital, partech and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+name: TestGorilla
+description: >-
+  TestGorilla is an AI-powered talent-assessment and skills-based hiring platform
+  that helps organizations screen and evaluate candidates objectively. It offers a
+  library of 350+ pre-employment tests (cognitive ability, personality, role-specific
+  skills, coding, language, and situational judgement), AI interviews, and anti-cheating
+  monitoring, and is used by companies such as PayPal, Equifax, and PepsiCo. TestGorilla
+  advertises ATS integrations but does not publish a public self-serve developer API;
+  this profile was surfaced as a portfolio company of Balderton Capital and Partech and
+  enriched with the company's real public web, security, and trust surfaces.
 url: https://raw.githubusercontent.com/api-evangelist/testgorilla/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,11 +17,30 @@ x-backed-by:
 - partech
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://www.testgorilla.com/favicon.png
 tags:
 - Company
+- Hiring
+- Recruiting
+- Talent Assessment
+- Skills Testing
+- Pre-Employment Testing
+- HR Tech
+- AI Interviews
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +50,36 @@ maintainers:
 common:
 - type: Website
   url: https://www.testgorilla.com/
+- type: Pricing
+  url: https://www.testgorilla.com/pricing/
+- type: Blog
+  url: https://www.testgorilla.com/blog/
+- type: HelpCenter
+  url: https://support.testgorilla.com/
+- type: SignUp
+  url: https://app.testgorilla.com/
+- type: TermsOfService
+  url: https://www.testgorilla.com/terms/
+- type: PrivacyPolicy
+  url: https://www.testgorilla.com/privacy-policy/
+- type: TrustCenter
+  url: security/testgorilla-trust-center.yml
+- type: Compliance
+  url: https://trust.testgorilla.com/
+- type: Security
+  url: https://www.testgorilla.com/.well-known/security.txt
+- type: SecurityTxt
+  url: well-known/testgorilla-security.txt
+- type: WellKnown
+  url: well-known/testgorilla-well-known.yml
+- type: DomainSecurity
+  url: security/testgorilla-domain-security.yml
+- type: VulnerabilityDisclosure
+  url: security/testgorilla-vulnerability-disclosure.yml
+- type: LLMsTxt
+  url: llms/testgorilla-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 6
+  pass: local-v1
