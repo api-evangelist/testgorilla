@@ -1,4 +1,4 @@
-# testgorilla
+# TestGorilla
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,88 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-testgorilla is a company surfaced as a portfolio company of balderton-capital, partech and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+TestGorilla is an AI-powered talent-assessment and skills-based hiring platform that helps organizations screen and evaluate candidates objectively. It offers a library of 350+ pre-employment tests (cognitive ability, personality, role-specific skills, coding, language, and situational judgement), AI interviews, and anti-cheating monitoring, and is used by companies such as PayPal, Equifax, and PepsiCo. TestGorilla advertises ATS integrations but does not publish a public self-serve developer API; this profile was surfaced as a portfolio company of Balderton Capital and Partech and enriched with the company's real public web, security, and trust surfaces.
 
-Backed by: balderton-capital, partech — https://www.testgorilla.com/
+**Areas:** Company · Hiring · Recruiting · Talent Assessment · Skills Testing · Pre-Employment Testing · Human Resources · AI Interviews
+
+## TestGorilla on APIs.io
+
+Everything profiled for TestGorilla is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/testgorilla/](https://apis.io/providers/testgorilla/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Testgorilla Domain Security](https://apis.io/security/testgorilla/testgorilla-domain-security/)
+- [Testgorilla Trust Center](https://apis.io/security/testgorilla/testgorilla-trust-center/)
+- [Testgorilla Vulnerability Disclosure](https://apis.io/security/testgorilla/testgorilla-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.testgorilla.com/)
+- [Pricing](https://www.testgorilla.com/pricing/)
+- [Sign up](https://app.testgorilla.com/)
+- [Blog](https://www.testgorilla.com/blog/)
+- [Security](https://www.testgorilla.com/.well-known/security.txt)
+- [Compliance](https://trust.testgorilla.com/)
+- [Terms of service](https://www.testgorilla.com/terms/)
+- [Privacy policy](https://www.testgorilla.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 18.7** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 47.4 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 24.5** — Employment & Payroll
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/testgorilla/](https://apis.io/providers/testgorilla/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for TestGorilla: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/testgorilla/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
